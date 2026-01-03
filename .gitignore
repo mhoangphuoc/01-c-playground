@@ -57,6 +57,11 @@ dkms.conf
 # VS Code settings (project-specific)
 .vscode
 
+# Dev-C++ project files
+*.dev
+*.layout
+Makefile.win
+
 # Build directories (common)
 build/
 dist/
